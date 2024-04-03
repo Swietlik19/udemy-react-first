@@ -1,2 +1,2 @@
-# udemy-react-first
-Udemy project (Essentials)
+# Udemy project (Essentials)
+Made during the course https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/
